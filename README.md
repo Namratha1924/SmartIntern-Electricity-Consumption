@@ -12,7 +12,7 @@ This project analyzes electricity consumption trends using a simulated dataset. 
 - `user_type_pie.png`: User type-based consumption pie chart  
 - `time_category_consumption.png`: Time category vs average consumption  
 - `peak_vs_nonpeak.png`: Peak hour vs non-peak hour average usage  
-- `SmartIntern_Project_Report.pdf`: Final project report 
+- `SmartIntern_Project_Report_.pdf`: Final project report 
 
 ## 🧠 Insights
 
